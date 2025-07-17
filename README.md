@@ -5,3 +5,7 @@
 # Vehicle sales Data
 
 <img width="1600" height="900" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/ec274406-9c2a-49cf-8f08-ed7828d65e8a" />
+
+# Popupation Data
+
+<img width="1600" height="900" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/539d15d7-4e49-49e9-8fdd-5c21247d458e" />
