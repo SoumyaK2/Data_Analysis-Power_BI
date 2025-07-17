@@ -13,3 +13,7 @@
 # Plastic Waste Data
 
 <img width="1600" height="900" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/f9492252-c2f3-4088-9375-6075642c63a1" />
+
+# Analyse Revenue
+
+<img width="1600" height="900" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/ef16e248-0916-48ac-949f-d627e3355be4" />
