@@ -9,3 +9,7 @@
 # Popupation Data
 
 <img width="1600" height="900" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/539d15d7-4e49-49e9-8fdd-5c21247d458e" />
+
+# Plastic Waste Data
+
+<img width="1600" height="900" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/f9492252-c2f3-4088-9375-6075642c63a1" />
