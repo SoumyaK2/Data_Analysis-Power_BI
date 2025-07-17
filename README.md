@@ -17,3 +17,7 @@
 # Analyse Revenue
 
 <img width="1600" height="900" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/ef16e248-0916-48ac-949f-d627e3355be4" />
+
+# CO2 generate in Every Region
+
+<img width="1600" height="900" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/5b0cec50-1881-4f54-a047-146c60f24234" />
