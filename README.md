@@ -6,8 +6,9 @@
 
 <img width="1600" height="900" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/922f7da1-e6af-47c5-a1af-6e990bcc85d5" />
 
-
 <img width="1600" height="900" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/ec274406-9c2a-49cf-8f08-ed7828d65e8a" />
+
+<img width="1600" height="900" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/f3af737f-3755-48b7-9d83-8be5bca22c1a" />
 
 # Popupation Data
 
