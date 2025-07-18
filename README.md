@@ -27,4 +27,7 @@
 
 # Sales achived
 
+<img width="1600" height="900" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/fe5a5895-705c-4600-ad42-e7a9688b159a" />
+
+
 <img width="1600" height="900" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/7e8e7b67-ec30-4ef3-a58b-b9b4172da4a6" />
