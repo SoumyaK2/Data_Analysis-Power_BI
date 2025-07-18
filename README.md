@@ -21,3 +21,7 @@
 # CO2 generate in Every Region
 
 <img width="1600" height="900" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/5b0cec50-1881-4f54-a047-146c60f24234" />
+
+# Sales achived
+
+<img width="1600" height="900" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/7e8e7b67-ec30-4ef3-a58b-b9b4172da4a6" />
