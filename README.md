@@ -32,3 +32,8 @@
 
 
 <img width="1600" height="900" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/7e8e7b67-ec30-4ef3-a58b-b9b4172da4a6" />
+
+# DAX
+
+<img width="1600" height="900" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/e4e79bec-bad2-4746-9c51-fbef51fe1cd8" />
+
